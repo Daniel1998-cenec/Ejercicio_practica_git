@@ -1,4 +1,4 @@
-#Esto lo que hace es que impiden subir archivos *.log 
-#* lo que hace es referirse a todo 
+#*.log indica que se deben ignorar todos los archivos que tengan la extensión, sin importar su nombre
+#El asterisco (*) es un comodín que representa cualquier conjunto de caracteres.
 
 *.log
