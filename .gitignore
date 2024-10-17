@@ -1,0 +1,4 @@
+#Esto lo que hace es que impiden subir archivos *.log 
+#* lo que hace es referirse a todo 
+
+*.log
