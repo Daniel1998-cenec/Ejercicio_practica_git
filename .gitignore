@@ -2,3 +2,4 @@
 #El asterisco (*) es un comodín que representa cualquier conjunto de caracteres.
 
 *.log
+contraseniaSecreta.txt
